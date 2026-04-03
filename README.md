@@ -34,7 +34,7 @@ archivedt
 ```
 
 > [!NOTE]
-> If you want to modify the command name, just change the key within 'bin' in `package.json`.
+> If you want to modify the command name, just update the 'bin' in `package.json`.
 
 ## Behavior
 
@@ -47,7 +47,7 @@ archivedt
 ```
 ~/Desktop/
   └── Archive/
-      └── 20260402/          ← Today's date (YYYYMMDD)
+      └── 20260402/         ← Today's date (YYYYMMDD)
           ├── file.txt      ← Your archived files
           ├── folder1/
           └── image.png
