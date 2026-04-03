@@ -68,4 +68,4 @@ archivedt
    - Leaves the new `report.pdf` on Desktop (won't move)
    - Reports `report.pdf` as a naming conflict
 
-This **prevents accidental data loss** - you decide manually how to handle files with duplicate names.
+This **prevents accidental data loss**—you decide manually how to handle files with duplicate names.
