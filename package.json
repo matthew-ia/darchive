@@ -1,0 +1,16 @@
+{
+  "name": "archive-desktop",
+  "version": "1.0.0",
+  "description": "Archive Desktop files into dated folders",
+  "bin": {
+    "archivedt": "./archive-desktop.js"
+  },
+  "type": "module",
+  "engines": {
+    "node": ">=14"
+  },
+  "dependencies": {
+    "@clack/prompts": "^1.2.0",
+    "picocolors": "^1.1.1"
+  }
+}
